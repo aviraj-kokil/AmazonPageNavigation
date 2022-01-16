@@ -3,3 +3,4 @@ Cypress provides two ways to test cases. Either using the Cypress UI Test Runner
 First in visual studio code open this  two file  one is feature file and another is js file 
 Here require to create one folder and give same name as feature file and crete one js file same name as feature file 
 From cli run command npx cypress open and see test case in test runner 
+If test case fail then try 3-4 times again here url facing issue so require 3-4 times
